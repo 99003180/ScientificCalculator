@@ -1,7 +1,7 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-#include <function.h>
+#include <calculator.h>
 #include <string.h>
 #define PROJECT_NAME "calculator"
 
